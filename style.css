@@ -152,9 +152,7 @@ color: #2947A9;
     justify-content: space-between;
     box-shadow: 0px 8.02774px 9.63329px -1.60555px rgba(17, 24, 39, 0.1), 0px 3.2111px 3.2111px -1.60555px rgba(17, 24, 39, 0.04);
     border-radius: 2px;
-
-   
-       
+ 
 }
 #sec2text{
     line-height: 50px;
@@ -175,7 +173,7 @@ color: #2947A9;
 .subsec3{
     display: grid;
     margin: 20px auto 20px;
-    /* grid-template-columns: repeat(3,1fr); */
+    
     grid-template-columns: 200px 200px 200px;
     grid-template-rows: repeat(2,1fr);
     gap: 40px;
